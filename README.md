@@ -1,7 +1,6 @@
 # YOLOv4_UAV_detect
-Mini insansız hava araçlarının tespit edilebilmesini sağlayan YOLOv4 modeli.
-Gerekli kütüphaneleri cihazınıza kurarak kullanabilirsiniz.
-Gerekli kütüphaneler; OpenCV, Numpy.
-UAV modeli ve config dosyası Model dosyası altında bulunmaktadır.
-Model dosyası 25 mb'tan büyük olduğu için parçalara ayırmam gerekti.
-Algılamak istediğiniz video veya fotoğrafları python kodları içinden dosya yolunu yazarak algılayabilirsiniz.
+This is the YOLOv4 model designed for detecting mini unmanned aerial vehicles. You can use it by installing the necessary libraries on your device.
+Required libraries include OpenCV and Numpy.
+The UAV model and configuration file can be found under the Model file directory.
+The model file is over 25 MB, so I had to split it into parts.
+You can detect the videos or photos you want to analyze by specifying the file path in the Python code.
